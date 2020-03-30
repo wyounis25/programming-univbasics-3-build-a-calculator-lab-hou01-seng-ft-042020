@@ -24,6 +24,6 @@ p sum
 end
 
 def square_root(num)
-sum = math.sqrt(num)
+sum = Math.square_root(num)
 p sum
 end
