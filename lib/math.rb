@@ -24,5 +24,6 @@ p sum
 end
 
 def square_root(num)
-
+sum = num^2
+p sum
 end
